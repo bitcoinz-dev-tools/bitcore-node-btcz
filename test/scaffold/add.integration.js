@@ -94,7 +94,7 @@ describe('#add', function() {
       var callCount = 0;
       var oldPackage = {
         dependencies: {
-          'bitcore-lib-btcz': 'git://github.com/MarcelusCH/bitcore-lib-btcz',
+          'bitcore-lib-btcz': 'MarcelusCH/bitcore-lib-btcz',
           'bitcore-node': '^v0.2.0'
         }
       };
