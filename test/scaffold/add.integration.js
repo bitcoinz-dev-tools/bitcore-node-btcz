@@ -94,7 +94,7 @@ describe('#add', function() {
       var callCount = 0;
       var oldPackage = {
         dependencies: {
-          'bitcore-lib-zcash': '^v0.13.7',
+          'bitcore-lib-btcz': 'bitcoinz-dev-tools/bitcore-lib-btcz',
           'bitcore-node': '^v0.2.0'
         }
       };
